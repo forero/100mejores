@@ -1,0 +1,677 @@
+Addi
+Sector: Fintech
+
+Empleados: 51-200
+
+Fundadores: Santiago Suárez, Daniel Vallejo y Élmer Ortega.
+
+Ayenda
+Sector: Turismo
+
+Empleados: 51-200
+
+Fundadores: Andrés Sarrazola y Christian Gómez.
+
+
+Bold
+Sector: Fintech
+
+Empleados: 51-200
+
+Fundadores: José Vélez, Ana María Sandoval, Sergio Vergara, Enrique Ramírez y Jorge Ulloa.
+
+
+Chiper
+Sector: E-commerce
+
+Empleados: 51-200
+
+Fundadores: José Bonilla, Carolina García y Oscar Sarria.
+
+
+Foodology
+Sector: Alimentos
+
+Empleados: 51-200
+
+Fundadores: Daniela Izquierdo y Juan Guillermo Azuero.
+
+
+Frubana
+Sector: Delivery
+
+Empleados: +1.500
+
+Fundador: Fabián Gómez.
+
+
+Habi
+Sector: Proptech
+
+Empleados: +400
+
+Fundadores: Brynne McNulty Rojas y Sebastián Noguera.
+
+Kiwibot
+Sector: Delivery
+
+Empleados: 21-50
+
+Fundadores: Felipe Chávez Cortés, Sergio Pachón y Jeison Oviedo.
+
+
+La Haus
+Sector: Proptech
+
+Empleados: 1.028
+
+Fundadores: Jerónimo Uribe, Rodrigo Sánchez Ríos, Santiago García y Tomás Uribe.
+
+Laika
+Sector: E-commerce
+
+Empleados:  51-200
+
+Fundadores: Manuela Sánchez, Camilo Sánchez, Andrea González y Tulio Jiménez.
+
+
+Liftit
+Sector: Transporte
+
+Empleados:  +250
+
+Fundadores: Ángel Celis Botto, Felipe Betancourt y Brian York.
+
+
+Merqueo
+Sector: E-commerce
+
+Empleados:  +600
+
+Fundadores: Miguel McAllister y José Calderón.
+
+
+Ontop
+Sector: Empleo
+
+Empleados:  50-200
+
+Fundadores: Santiago Aparicio, Julián Torres y Jaime Abella.
+
+
+Platzi
+Sector: Educación
+
+Empleados:  +200
+
+Fundadores: Freddy Vega y Christian Van Der Henst.
+
+
+Playvox
+Sector: Costumer Experience
+
+Empleados:  21-50
+
+Fundadores: Óscar Giraldo.
+
+
+Rappi
+Sector: Delivery/Fintech/E-commerce
+
+Empleados:  4.500
+
+Fundadores: Simón Borrero, Sebastián Mejía y Felipe Villamarín.
+
+
+Robinfood
+Sector: Alimentos
+
+Empleados:  +200
+
+Fundador: José Guillermo Calderón.
+
+
+José Guillermo Calderón, CEO de Robinfood. Foto: Robinfood.
+Torre
+Sector: Empleo
+
+Empleados:  +200
+
+Fundador: Álex Torrenegra, Andrés Cajiao y Daniela Ávila.
+
+
+Truora
+Sector: Verificación de identidad
+
+Empleados:  51-200
+
+Fundador: Daniel Bilbao, Maite Muniz-Tellería, César Pino y David Cuadrado.
+
+
+Ubits
+Sector: Educación
+
+Empleados:  51-200
+
+Fundador: Martha Forero y Julián Melo.
+
+
+
+1Doc3
+Empleados:  460
+
+Fundador: Javier Cardona y Nicolás Durán.
+
+Arkangel
+Empleados:  6-20
+
+Fundador: Laura Velásquez y José David Gómez. 
+
+Doc-Doc
+Empleados:  6-20
+
+Fundador: Laura Gutiérrez, Gabriel Castillo y Juan Manuel Castillo.
+
+Enterapia
+Empleados:  6-20
+
+Fundador: Camilo Arbeláez y Camilo Forero.
+
+Saludtools
+Empleados:  21-50
+
+Fundador: Camilo Naranjo.
+
+
+Acasa
+Empleados:  6-20
+
+Fundador: Eduardo Restrepo, Mauricio Peñaranda y Nicolás Peñaranda.
+
+Aptuno
+Empleados:  21-50
+
+Fundador: Alejandro Gómez, Juan Martín Delgado, Cristina Palacios y Brian Requarth.
+
+Licify
+Empleados:  6-20
+
+Fundador: Daniela Linero y Fernando Olloqui.
+
+Neivor
+Empleados:  21-50
+
+Fundador: Caterine Castillo, Paola Fuertes y Óscar Garzón.
+
+Vecindario
+Empleados:  51-200
+
+Fundadores: Felipe Restrepo y Juan Camilo Ruíz.
+
+
+Acsendo
+Empleados:  21-50
+
+Fundador: Carlos Alberto Santana.
+
+HoyTrabajas
+Empleados:  21-50
+
+Fundadores: Rubén Darío Córdoba, Aevum Sebastián Arce y Vladimir Guzmán.
+
+Hunty
+Empleados:  51-200
+
+Fundador: Sebastián Caro, Santiago Lafaurie, Valentina Smith y Francisco Camacho.
+
+
+Aflore
+Empleados:  51-200
+
+Fundadores: Ana Barrera y Manuel Jiménez. 
+
+Avanzo
+Empleados:  21-50
+
+Fundadores: Gastón Vega y Javier Montoya.
+
+Avista
+Empleados:  +200
+
+Fundadores: Gabriel Seinjet y Martín Restrepo.
+
+EnlaU
+Empleados:  21-50
+
+Fundadores: Andrés Méndez y Andrés Franco.
+
+Factcil
+Empleados:  6-20
+
+Fundadores: Nicolás Rojas, Ana María Guevara, Alejandra Ramírez, Nicolás Gnecco y Juan David García.
+
+Finaktiva
+Empleados:  51-200
+
+Fundador: Pablo Santos. 
+
+Juancho te presta
+Empleados:  6-20
+
+Fundadores: Juan Esteban Saldarriaga y Daniel Materon.
+
+Mesfix
+Empleados:  21-50
+
+Fundador: Felipe Tascón Ortíz
+
+Minka
+Empleados:  21-50
+
+Fundador: Domagoj Rozic.
+
+Mono
+Empleados:  6-20
+
+Fundadores: Salomón Zarruk, José Tomás Lobo, Sebastián Ortiz y Juan Camilo Poveda.
+
+Movii
+Empleados:  51-200
+
+Fundadores: Hernando Rubio y Julián Montejo.
+
+Omnilatam
+Empleados:  51-200
+
+Fundadores: Diego Caicedo y Andrés Abumohor.
+
+Sempli
+Empleados:  21-50
+
+Fundadores: Esteban Velasco y Felipe Llano.
+
+Simetrik
+Empleados:  51-200
+
+Fundadores: Santiago Gómez y Alejandro Casas.
+
+TPaga
+Empleados:  21-50
+
+Fundadores: Andrés Gutiérrez y Juan Salcedo.
+
+Treinta
+Empleados:  51-200
+
+Fundadores: Lluís Cañadell Y Man Hei Lou.
+
+Tributi
+Empleados:  21-50
+
+Fundadores: Andrés Vélez y Simón González.
+
+Trii
+Empleados:  51-200
+
+Fundadores: Esteban Peñaloza y Carlos Guayara.
+
+TusDatos
+Empleados:  6-20
+
+Fundadores: Santiago Hernández.
+
+Vaki
+Empleados:  6-20
+
+Fundadores: Nicolás Contreras, Erika Chacón y Raissa de Mello.
+
+Valiu
+Empleados:  21-50
+
+Fundadores: Simón Chamorro y Alberto Niego.
+
+Zinobe
+Empleados:  +200
+
+Fundadores: Tarek El Sherif y Martin Schrimpff.
+
+
+Agrapp
+Empleados:  6-20
+
+Fundadores: David Duarte y Carlos Zubieta.  
+
+Guineo
+Empleados:  6-20
+
+Fundadores: Mauricio Medina Cruz.
+
+
+Appen
+Empleados:  1-5
+
+Fundadores: Andrés Melo y Catalina Acosta.
+
+Pulzo
+Empleados:  51-200
+
+CEO: Hernando Paniagua.
+
+Treble
+Empleados:  51-200
+
+Fundadores: Felipe Otálora, Daniel Martínez y Sebastián Valencia.
+
+WeKall
+Empleados:  51-200
+
+Fundadores: Felipe Sánchez, Julián Sánchez y Fabián Saavedra.
+
+
+Backstartup
+Empleados:  51-200
+
+Fundadores: Juana Barco, Diego Peñuela, Cristian Villamizar y Adriana Villamizar.
+
+Hogaru
+Empleados:  +200
+
+Fundadores: Matteo Cera, Gonzalo Ucar y Óscar Peña.
+
+Symplifica
+Empleados:  51-200
+
+Fundadores: Salua García Fakih y Omar Perdomo.
+
+Talentu
+Empleados:  51-200
+
+Fundador: Mateo Folador.
+
+
+Branddu
+Empleados:  1-5
+
+Fundadores: Mariana Velásquez y Mónica Cortés.
+
+Elenas
+Empleados:  51-200
+
+Fundador: Zach Oschin.
+
+Favik
+Empleados:  21-50
+
+Fundadores: Felipe Novoa, Hoovert Arredondo y José Ovalle.
+
+Komercia
+Empleados:  6-20
+
+Fundadores: Gustavo Moreno y Angélica Bohórquez.
+
+La Mayorista App
+Empleados:  21-50
+
+Fundador: Sebastián Garcés López
+
+Lentesplus
+Empleados:  51-200
+
+Fundador: Diego Mariño y Jaime Oriol.
+
+Velocity
+Empleados:  21-50
+
+Fundador: Aura María Sarmiento y Luis Felipe Giraldo.
+
+Loro
+Empleados:  21-50
+
+Fundador: Juan Manuel Saravia, Camilo Tobón, Esael Ángel y Nicolás Gallo.
+
+Melonn
+Empleados:  51-200
+
+Fundador: Andrés Gómez, Alejandro Celis, Andrés Felipe Archila, Felipe Jaramillo, Daniel Castrillón y Sebastián Román.
+
+Muni
+Empleados:  +200
+
+Fundadora: María Echeverri.
+
+Quqo
+Empleados:  6-20
+
+Fundador: Jaime Roldán.
+
+Rocketfy
+Empleados: 51-200
+
+Fundadores: Alejandro Kratc, Daniel Vargas, Pablo Gutiérrez y Camilo Quitian.
+
+Superfüds
+Empleados: 51-200
+
+Fundadores: Sebastián Hernández, Nicolás Farah y Jaime Barriga.
+
+Tiendapp
+Empleados: 51-200
+
+Fundador: Santiago Londoño y Luis Cruz.
+
+Tül
+Empleados: +200
+
+Fundadores: Juan Carlos Narváez, Nicolás Villegas y Enrique Villamarín.
+
+Valienta
+Empleados: 6-20
+
+Fundadores: Juan Camilo Vallejo, Juan Manuel Botero y José Gabriel Tamura.
+
+
+Cívico
+Empleados:  51-200
+
+Fundadores: Juan Felipe Castaño y Ricardo Pombo.
+
+Datawifi
+Empleados:  6-20
+
+Fundadores: Andrés Gómez Ruiz, Edwin Pardo y María Claudia Osorio.
+
+Datup
+Empleados:  6-20
+
+Fundadores: Paola Serna, Ramiro Chaparro, Jullie Torres y Ángel Felipe Hernández.
+
+LinkedAI
+Empleados:  6-20
+
+Fundadores: Paula Villamarín y Diego Parra.
+
+Porter
+Empleados:  6-20
+
+Fundadores: Juan José Bello, Mateo Gómez y Carlos Gómez.
+
+Whale and Jaguar
+Empleados:  21-50
+
+Fundadores: Nohora Galán y Luis Aníbal García.
+
+
+Cluvi
+Empleados:  51-200
+
+Fundadores: Fabián Carrillo Suárez, William García, Mario Barajas, Manuel Vanegas y Pedro Chaparro.
+
+Epica
+Empleados:  21-50
+
+Fundadores: Diego Páramo y Hernán Rodríguez.
+
+Instaleap
+Empleados:  51-200
+
+Fundadores: Antonio Nunes, Margarida Freitas y Antonio Navarro.
+
+Logra
+Empleados:  6-20
+
+Fundadores: Ianis Defendini, Israel Zuñiga y Luis Flórez.
+
+PeakU
+Empleados:  6-20
+
+Fundadores: Santiago González y Juan Pablo Isaza.
+
+Peewah
+Empleados:  6-20
+
+Fundadores: Camilo Sacanamboy y Felipe Salazar.
+
+Queo
+Empleados:  21-50
+
+Fundadores: Mateo Jiménez, Johan Cabeza y Julián Casas.
+
+Ruedata
+Empleados:  21-50
+
+Fundadores: Sebastián Baquero y Jorge Quinche.
+
+
+Erco Energía
+Empleados:  51-200
+
+Fundadores: Juan Camilo López y Juan Esteban Hincapié.
+
+Neu Energy
+Empleados:  21-50
+
+Fundadores: Juan Esteban Hincapié, Juan Camilo López y Daniel López.
+
+Solenium
+Empleados:  6-20
+
+Fundadores: Eduardo Ospina, Paola Santiago y Nicolás Villegas.
+
+
+Escappy Travel
+Empleados:  6-20
+
+Fundador: Miguel Páez.
+
+Flapz
+Empleados:  6-20
+
+Fundadores: Ionatan Galeano y Julio Puentes.
+
+
+Fitpal
+Empleados:  6-20
+
+Fundadores: Juan Sebastián Montejo y Ximena Morgan.
+
+
+Fluvip
+Empleados:  +200
+
+Fundadores: Sebastián Jasminoy y Juan David Ramírez.
+
+Leal
+Empleados:  51-200
+
+Fundadores: Camilo Martínez y Florence Frech.
+
+Mi Megáfono
+Empleados:  6-20
+
+Fundador: Luis Carlos Vélez, Andrés Gutiérrez, Camilo Nova, Juan Camilo Afanador y Esteban Paba.
+
+
+HackU
+Empleados:  21-50
+
+Fundadores: Juan Simón Salazar, Santiago Salazar y Juan Alejandro Duque.
+
+Mangus
+Empleados:  6-20
+
+Fundadores: Harold Combita y Roberto Morales.
+
+Protalento
+Empleados:  6-20
+
+Fundadores: Juan David Aristizábal, Víctor Saavedra, Laura Aristizábal y Mariano Parró.
+
+Slang
+Empleados:  51-200
+
+Fundadores: Diego Villegas y Kamran Khan.
+
+
+Hey!
+Empleados:  6-20
+
+Fundador: Rodrigo Reyes.
+
+Vozy
+Empleados:  51-200
+
+Fundador: Humberto Pertuz, Helmuth Corzo, Ricardo Marín y Alejandro López.
+
+
+Logysto
+Empleados:  51-200
+
+Fundador: Camilo Arango y David Arango.
+
+Mensajeros Urbanos
+Empleados:  +200
+
+Fundador: Santiago Pineda y Juan Pablo Pineda.
+
+Mi Águila
+Empleados:  51-200
+
+Fundadores: Bruno Ocampo, Fernán Ocampo y Andrés Blumer.
+
+Picap
+Empleados:  +200
+
+Fundador: Hector Neira y Daniel Rodríguez.
+
+Pinbus
+Empleados:  21-50
+
+Fundador: Sebastián Jaramillo y Alejandro Zuluaga.
+
+Taxia
+Empleados:  21-50
+
+Fundador: Gaby Muñoz, Juan David Montes, Carlos Muñoz, Reiman Muñoz y Andrés Silva.
+
+
+Muncher
+Empleados:  +200
+
+Fundadores: Juan David Jaramillo, Nimrod Molad y Andrés Villaraga.
+
+TodosComemos
+Empleados:  21-50
+
+Fundadores: Mateo Cárdenas y Santiago Espinosa.
+
+
+Rebus
+Empleados:  21-50
+
+Fundador: Juliana Villalba Torres y José Berrío.
+
+
+Sensebox
+Empleados:  6-20
+
+Fundador: Jennifer Lee y Fernando Lee.
